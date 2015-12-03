@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">拨打电话</string>
+    <string name="hello_world">欢迎使用NIIT电话拨打程序</string>
+
+    <string name="tv_phone">请输入电话号码：</string>
+    <string name="btn_phone">拨打电话</string>
+    
+    <string name="tv_phonenum">请输入手机号码：</string>
+     <string name="tv_smscontent">请输入短信内容：</string>
+     <string name="btn_submit">发送短信</string>
+     <string name="btn_submit2">发送短信2</string>
+</resources>
